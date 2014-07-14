@@ -1,4 +1,3 @@
-twofac
-======
+# AUTH TWOFAC
 
-Two-factor authentication plugin for moodle
+Two-factor authentication plugin for Moodle
