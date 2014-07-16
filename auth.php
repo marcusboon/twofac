@@ -21,7 +21,7 @@
  * Standard authentication function.
  *
  * @package     auth_twofac
- * @author      Marcus Boon<marcus@catalyst-au.net>
+ * @author      Marcus Boon<marcus@boon.mx>
  * @license     http://www.gnu.org/copyleft/gpl.html GNU Public License
  */
 

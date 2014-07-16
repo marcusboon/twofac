@@ -19,7 +19,7 @@
  * Strings for component 'auth_twofac', language 'en', branch 'MOODLE_26_STABLE'
  *
  * @package     auth_twofac
- * @author      Marcus Boon<marcus@catalyst-au.net>
+ * @author      Marcus Boon<marcus@boon.mx>
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
